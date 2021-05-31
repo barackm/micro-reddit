@@ -1,24 +1,45 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Micro Reddit
 
-Things you may want to cover:
+> This project puts my knowledge of active record, models, and associations to the tests. It is an application similar to Reddit (called Micro-Reddit) where a user can create a post and add comments to it.
 
-* Ruby version
+Additional description [Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-on-rails/lessons/building-with-active-record-ruby-on-rails)
 
-* System dependencies
+## Built With
 
-* Configuration
+- Ruby on Rails
 
-* Database creation
+## Getting Started
 
-* Database initialization
+**To get the local coppy of this project you just need to clone it by running the following command from your terminal `git clone https://github.com/barackm/micro-reddit.git`**
 
-* How to run the test suite
+# Installation
 
-* Services (job queues, cache servers, search engines, etc.)
+After you have cloned the repository, you need to install all the available gems by running the command `bundle install` from the root of the project.
 
-* Deployment instructions
+### Setup
 
-* ...
+To interact with the database you need to use the rails console by running the command `rails console` from the root of the project.
+
+## Author
+
+👤 **Barack Mukelenga**
+
+- GitHub: [@bacakm](https://github.com/barackm)
+- Twitter: [@BarackMukelenga](https://twitter.com/BarackMukelenga)
+- LinkedIn: [Baraka Mukelenga](https://www.linkedin.com/in/baraka-mukelenga/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/barackm/micro-reddit/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Microverse

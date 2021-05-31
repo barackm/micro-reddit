@@ -12,11 +12,12 @@ Additional description [Odin Project](https://www.theodinproject.com/paths/full-
 
 ## Getting Started
 
-**To get the local coppy of this project you just need to clone it by running the following command from your terminal `git clone https://github.com/barackm/micro-reddit.git`**
+**To get the local copy of this project you just need to clone it by running the following command from your terminal `git clone https://github.com/barackm/micro-reddit.git`**
 
 # Installation
 
 After you have cloned the repository, you need to install all the available gems by running the command `bundle install` from the root of the project.
+And for creating the DB via rails run `db:create` and migrate it via run `rails db:migrate`
 
 ### Setup
 
